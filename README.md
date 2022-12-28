@@ -5,11 +5,11 @@
 
 - 🥽 Currently working on **a metaverse Project for ArchViz**
 
-- 📖 Also learning **software development, containerization and game development**
+- 📖 Also learning about ** containerization, software and game development**
 
-- 👯 but I’m also willing to collaborate on **other projects related to software development**
+- 👯 But I’m also willing to collaborate on **any other IT related projects**
 
-- 💬 Ask me about **Game development, coding and/or VR development**
+- 💬 You can ask me anything about  **computer hardware, coding, Game and/or VR development**, and I'll be eager to assist you 😉
 
 - 📫 How to reach me **marcello.lbento@gmail.com**
 <h3 align="left">Connect with me:</h3>
