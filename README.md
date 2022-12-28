@@ -1,6 +1,5 @@
 <img align="center" src="https://dsm01pap003files.storage.live.com/y4memodFoxT05lAq19bY300taoMPERVIoHEVv4BAoje0Jw1alcMAMfW4chYvywDXAv0maDlO-9DplUQl946Rxf7QDTG83c6-uHphOYV7T5QTiLsajVT_nUYvaov3N7BfJ6-cfBnF735XzQygfctc3UQ3FkE9VD-FgJHUr-Qj9_wj7Xwu8AFlB3KpXf8jlV6SerM?width=1581&height=648&cropmode=none"/>
 
-<h1 align="center">Hi 👋, I'm Marcello</h1>
 <h3 align="center">an IT Technician and software analysis and development student.</h3>
 
 - 🥽 Currently working on **a metaverse Project for ArchViz**
